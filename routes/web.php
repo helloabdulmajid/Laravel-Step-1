@@ -46,9 +46,9 @@ Route::get('/test', function () {
 
 //php code
 
-// Route::get('/test1', function () {
-//     echo 2+2;
-// });
+Route::get('/test1', function () {
+    echo 2+2;
+});
 
 //route redirect
 
